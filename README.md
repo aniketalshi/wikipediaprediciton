@@ -25,3 +25,4 @@ step 4: test data
  ./prepare.py training
  ./submit.py
 
+Credits: On lines of implementation idea of Dell Zhang's
